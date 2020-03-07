@@ -1,0 +1,12 @@
+
+.idea/.gitignore
+.idea/.name
+.idea/checkstyle-idea.xml
+.idea/codeStyles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/modules/
+.idea/sbt.xml
+.idea/scala_compiler.xml
+
+
